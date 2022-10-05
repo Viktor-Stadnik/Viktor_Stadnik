@@ -3,7 +3,7 @@
 
 ## Description:
 This project is a simple realization of "SQL join operations". 
-User can choose the join operations: *Left Join*, *Right Join* and *Inner Join*.
+User can choose the join operations: *Inner Join*, *Left Join* and *Right Join*.
 
 ### How to run this application:
 1. Fork this project
